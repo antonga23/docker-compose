@@ -1,2 +1,2 @@
 # docker-compose
-An exampel application leveraging docker comose
+An example application leveraging docker comose
